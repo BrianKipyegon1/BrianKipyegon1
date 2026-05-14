@@ -1,13 +1,13 @@
 # Hi there 👋 I'm Brian Kipyegon
 
-### 🏗️ Founder & Director | 🧪 Industrial Chemistry Student | 🌍 Community Leader
+### 🏗️ Founder & Director | 🧪 Industrial Chemistry Student | 🌍 Community Project Lead
 
 Welcome to my GitHub profile! I combine scientific research, sustainable project execution, and social impact to build community-driven solutions.
 
 ---
 
 ## 💼 What I Do
-- **Founder & Director** at **Kanima Construction Company Limited**: Leading structural project execution, budgeting, and operations.
+- **Founder & Director** at **KANAMA Constructions Company Limited**: Leading structural project execution, budgeting, and operations.
 - **BSc. Industrial Chemistry Student** at **JKUAT**: Researching chemical processes, material science, and green industrial applications.
 - **Founder & Team Lead** at **GreenMinds KE Charity Drive**: Mobilizing community action for environmental conservation and youth empowerment.
 
